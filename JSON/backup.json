@@ -1,0 +1,95 @@
+{
+  "categories": ["Tất cả", "Toàn diện", "Tối giản", "Nghệ thuật"],
+  "themes": [
+    {
+      "id": "pl_01",
+      "title": "Projectivy Backup 01",
+      "author": "Khánh Official",
+      "category": "Toàn diện",
+      "downloads": 1250,
+      "preview_image": "https://raw.githubusercontent.com/khanhitpro/Backup_Projectivy/main/ANH/backup%20(1).jpg",
+      "backup_file_url": "https://raw.githubusercontent.com/khanhitpro/Backup_Projectivy/main/BACKUP/backup%20(1).plbackup",
+      "description": "Bản sao lưu giao diện Projectivy Launcher tùy chỉnh từ repo khanhitpro."
+    },
+    {
+      "id": "pl_02",
+      "title": "Projectivy Backup 02",
+      "author": "Khánh Official",
+      "category": "Tối giản",
+      "downloads": 940,
+      "preview_image": "https://raw.githubusercontent.com/khanhitpro/Backup_Projectivy/main/ANH/backup%20(2).jpg",
+      "backup_file_url": "https://raw.githubusercontent.com/khanhitpro/Backup_Projectivy/main/BACKUP/backup%20(2).plbackup",
+      "description": "Giao diện tối giản, tập trung tối ưu tốc độ và ẩn ứng dụng không cần thiết."
+    },
+    {
+      "id": "pl_03",
+      "title": "Projectivy Backup 03",
+      "author": "Khánh Official",
+      "category": "Toàn diện",
+      "downloads": 1820,
+      "preview_image": "https://raw.githubusercontent.com/khanhitpro/Backup_Projectivy/main/ANH/backup%20(3).jpg",
+      "backup_file_url": "https://raw.githubusercontent.com/khanhitpro/Backup_Projectivy/main/BACKUP/backup%20(3).plbackup",
+      "description": "Bố cục sắp xếp dạng kính mờ sang trọng mượt mà."
+    },
+    {
+      "id": "pl_04",
+      "title": "Projectivy Backup 04",
+      "author": "Khánh Official",
+      "category": "Nghệ thuật",
+      "downloads": 760,
+      "preview_image": "https://raw.githubusercontent.com/khanhitpro/Backup_Projectivy/main/ANH/backup%20(4).jpg",
+      "backup_file_url": "https://raw.githubusercontent.com/khanhitpro/Backup_Projectivy/main/BACKUP/backup%20(4).plbackup",
+      "description": "Phong cách màu sắc độc đáo dành cho màn hình TV cỡ lớn."
+    },
+    {
+      "id": "pl_05",
+      "title": "Projectivy Backup 05",
+      "author": "Khánh Official",
+      "category": "Toàn diện",
+      "downloads": 2100,
+      "preview_image": "https://raw.githubusercontent.com/khanhitpro/Backup_Projectivy/main/ANH/backup%20(5).jpg",
+      "backup_file_url": "https://raw.githubusercontent.com/khanhitpro/Backup_Projectivy/main/BACKUP/backup%20(5).plbackup",
+      "description": "Sắp xếp ứng dụng giải trí và truyền hình xem phim tối ưu nhất."
+    },
+    {
+      "id": "pl_06",
+      "title": "Projectivy Backup 06",
+      "author": "Khánh Official",
+      "category": "Tối giản",
+      "downloads": 1150,
+      "preview_image": "https://raw.githubusercontent.com/khanhitpro/Backup_Projectivy/main/ANH/backup%20(6).jpg",
+      "backup_file_url": "https://raw.githubusercontent.com/khanhitpro/Backup_Projectivy/main/BACKUP/backup%20(6).plbackup",
+      "description": "Giao diện gọn gàng phù hợp cho gia đình có người già và trẻ nhỏ."
+    },
+    {
+      "id": "pl_07",
+      "title": "Projectivy Backup 07",
+      "author": "Khánh Official",
+      "category": "Nghệ thuật",
+      "downloads": 890,
+      "preview_image": "https://raw.githubusercontent.com/khanhitpro/Backup_Projectivy/main/ANH/backup%20(7).jpg",
+      "backup_file_url": "https://raw.githubusercontent.com/khanhitpro/Backup_Projectivy/main/BACKUP/backup%20(7).plbackup",
+      "description": "Phối màu tương phản cao giúp nổi bật các ứng dụng hay dùng."
+    },
+    {
+      "id": "pl_08",
+      "title": "Projectivy Backup 08",
+      "author": "Khánh Official",
+      "category": "Toàn diện",
+      "downloads": 1430,
+      "preview_image": "https://raw.githubusercontent.com/khanhitpro/Backup_Projectivy/main/ANH/backup%20(8).jpg",
+      "backup_file_url": "https://raw.githubusercontent.com/khanhitpro/Backup_Projectivy/main/BACKUP/backup%20(8).plbackup",
+      "description": "Bản sao lưu bổ sung các thẻ nội dung lối tắt tiện lợi."
+    },
+    {
+      "id": "pl_09",
+      "title": "Projectivy Backup 09",
+      "author": "Khánh Official",
+      "category": "Tối giản",
+      "downloads": 1670,
+      "preview_image": "https://raw.githubusercontent.com/khanhitpro/Backup_Projectivy/main/ANH/backup%20(9).jpg",
+      "backup_file_url": "https://raw.githubusercontent.com/khanhitpro/Backup_Projectivy/main/BACKUP/backup%20(9).plbackup",
+      "description": "Giao diện siêu nhẹ giúp TV chạy mượt mà không lo giật lag."
+    }
+  ]
+}
